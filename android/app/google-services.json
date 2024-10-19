@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750228115564",
+    "project_id": "test-for-amir",
+    "storage_bucket": "test-for-amir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750228115564:android:4eabd0876cb75e51d50849",
+        "android_client_info": {
+          "package_name": "com.rome.test_for_amir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQRQh4IaM6kbnYr0nY9troqOX8yWNtrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
